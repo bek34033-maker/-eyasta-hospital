@@ -1,0 +1,12 @@
+{
+  "name": "eyasta-hospital",
+  "main": "src/hospital-app.js",
+  "compatibility_date": "2026-10-05",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "eyasta-hospital-db",
+      "database_id": "d17e26f3-9936-449c-aa7d-89473f111e3d"
+    }
+  ]
+}
